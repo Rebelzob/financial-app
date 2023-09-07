@@ -15,6 +15,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🚀 Live Demo ](#-live-demo-)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -51,6 +52,11 @@ In this project we use React to build stocks app.
     <li><a href="https://react-redux.js.org/">React-Redux</a></li>
   </ul>
 </details>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://stock-app-7q1k.onrender.com)
+- [presentation video](https://www.loom.com/share/a3da968d90424807b76e53edea86087c?sid=6562475e-44ba-4433-9a2d-291c4b02f114)
 
 ### Key Features <a name="key-features"></a>
 
