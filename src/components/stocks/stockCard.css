@@ -1,0 +1,33 @@
+.card-container {
+  font-family: 'Lato', sans-serif;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-container .card {
+  display: flex;
+  color: #fff;
+  gap: 5%;
+  border: none;
+}
+
+.card-container .card:nth-child(even) {
+  background-color: #4369b2 !important;
+}
+
+.card-container .card:nth-child(odd) {
+  background-color: #1b50b3 !important;
+}
+
+.stretched-link {
+  display: flex;
+  color: #fff;
+  justify-content: flex-end;
+}
+
+.card-img-top {
+  width: 50vw;
+  height: 30vh;
+  object-fit: contain;
+}
