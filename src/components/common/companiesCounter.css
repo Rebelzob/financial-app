@@ -1,0 +1,13 @@
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5%;
+  padding: 10%;
+  color: #fff;
+}
+
+.counter-container h1 {
+  font-size: 2rem;
+}

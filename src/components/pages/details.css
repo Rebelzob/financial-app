@@ -1,0 +1,23 @@
+.list-group-item-even {
+  background-color: #4369b2 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  color: #fff !important;
+}
+
+.list-group-item-odd {
+  background-color: #1b50b3 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  color: #fff !important;
+}
+
+.image-display-top {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 20vw;
+  height: 30vh;
+  object-fit: contain;
+}
